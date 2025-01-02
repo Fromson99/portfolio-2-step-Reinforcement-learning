@@ -58,5 +58,5 @@ For episode = 1,E do
 RL1에서 받은 각 종목의 가중치 출력:  
   포트폴리오의 가중치로 weighted return계산:  
   하루 이후 데이터를 가지고 model2 진행:  
-![image](https://github.com/user-attachments/assets/659b9e2e-d941-47e3-8a01-ddbbb56d1e46)
+
 
