@@ -28,7 +28,7 @@
 
 
 ## 프로젝트 구조 (Project structure)
-![workflow](./images/work flow.png)
+![workflow](./images/work_flow.png)
 
 ![Performance](./images/Performance.png)
 
