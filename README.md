@@ -10,7 +10,9 @@
 
 ---
 ## 프로젝트 소개 (Introduction)
-
+- **형식:** 소논문
+- **주최:** 한국정보처리학회 추계학술대회 https://kiss.kstudy.com/Detail/Ar?key=4059525
+- **역할:** 1st Author, 아이디어 제시, 코딩, 논문작성
 ---
 
 ## 프로젝트 핵심 (Point)
